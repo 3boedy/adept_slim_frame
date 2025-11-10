@@ -34,6 +34,7 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 * The **MJF Nylon PA12** version fits perfectly.
 * The **FDM** version may not fit properly due to printing tolerance differences.
 * If you own a 3D printer and are experienced, you can adjust tolerances manually.
+* Aluminum CNC machining cost approximately **$44 at JLCCNC**, excluding shipping fees.
 
 ---
 <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1697.JPEG?raw=true" width="600">
