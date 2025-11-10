@@ -5,7 +5,9 @@
 ---
 
 This is a modified version of **fabriciobastian’s mod** — all credit goes to them.
-👉 Original source: [adept-anyball/ploopy-adept-small-btu](https://github.com/adept-anyball/ploopy-adept-small-btu)
+
+👉 Original source: [adept-anyball/ploopy-adept-small-btu]
+(https://github.com/adept-anyball/ploopy-adept-small-btu)
 
 ---
 
