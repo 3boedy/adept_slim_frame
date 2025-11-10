@@ -11,6 +11,8 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 
 ### Printing Instructions
 
+<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1693.JPEG?raw=true" width="600">
+
 **Top shell**
 
 * Must be printed in **MJF Nylon PA12**.
@@ -24,6 +26,8 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 * To minimize thickness, the **sensor area is exposed** at the bottom.
 
   * If you don’t like this, you can modify the model yourself or simply cover it with tape.
+  * 
+<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1695.JPEG?raw=true" width="600">
 
 **Frame**
 
@@ -32,13 +36,16 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 * If you own a 3D printer and are experienced, you can adjust tolerances manually.
 
 ---
+<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1697.JPEG?raw=true" width="600">
 
 ### Hardware / Assembly
 
 * **Total screws needed:** 3
+<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1700.JPEG?raw=true" width="600">
 
   * **Rear:** 2 × M2 (4 mm recommended, 5–6 mm also fit)
   * **Front:** 1 × M1.6 (5 mm)
+<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1698.JPEG?raw=true" width="600">
 
     * The front screw hole is hidden for a clean look and fits like a LEGO brick connection, which is why it’s smaller.
 * **Recommended bumpon (rubber foot) diameter:** 8 mm
