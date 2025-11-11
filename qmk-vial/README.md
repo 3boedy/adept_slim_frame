@@ -1,10 +1,10 @@
 
----
+
 <p align="left">
   <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1692.png" width="600">
 </p>
 
-
+---
 ### Short Demonstration of My Adept Setup
 
 Several people have asked about how I operate my Adept, so I’ve uploaded a short demonstration video.
