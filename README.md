@@ -53,7 +53,7 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
   * **Front:** 1 × M1.6 (5 mm)
 <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1698.JPEG?raw=true" width="600">
 
-    * The front screw hole is hidden for a clean look and fits like a LEGO brick connection, which is why it’s smaller.
+* The front screw hole is hidden for a clean look and fits like a LEGO brick connection, which is why it’s smaller.
 * **Recommended bumpon (rubber foot) diameter:** 8 mm
 
 ---
