@@ -21,6 +21,9 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 * **FDM printing is *not recommended*** — the button structure was modeled specifically for the stiffness of nylon.
 * Using other materials may result in poor button feel or tolerance issues.
 
+
+<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1710.JPEG?raw=true" width="600">
+
 **Bottom shell**
 
 * Can be printed using **FDM**.
