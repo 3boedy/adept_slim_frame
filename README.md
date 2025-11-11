@@ -60,13 +60,13 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 
 ### BTU Adapter
 
-You **must use the BTU adapter (support)** included in this repository — it has slightly different dimensions compared to the original design.
+* You **must use the BTU adapter (support)** included in this repository — it has slightly different dimensions compared to the original design.
 
 ---
 
 ### Contact
 
-If you have any questions, join the **Ploopy Discord** and look for me there:
+* If you have any questions, join the **Ploopy Discord** and look for me there:
 🔗 [https://discord.gg/uPGgdVc7](https://discord.gg/uPGgdVc7)
 
 ---
